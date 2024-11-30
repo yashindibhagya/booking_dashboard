@@ -4,9 +4,8 @@ This project highlights a sleek and intuitive UI design for an event management 
 
 ## Figma UI Design
 
-  <img src="https://github.com/yashindibhagya/booking_dashboard/blob/main/Event%20managemnt%20dashboard/Untitled-2.png" alt="Home Page" width="45%">
-  
 <p align="center">
+  <img src="https://github.com/yashindibhagya/booking_dashboard/blob/main/Event%20managemnt%20dashboard/Untitled-2.png" alt="Home Page" width="45%">
   <img src="https://github.com/yashindibhagya/booking_dashboard/blob/main/Event%20managemnt%20dashboard/attendee%20insight.png" alt="" width="45%">
   <img src="https://github.com/yashindibhagya/booking_dashboard/blob/main/Event%20managemnt%20dashboard/browse.png" alt="" width="45%">
   <img src="https://github.com/yashindibhagya/booking_dashboard/blob/main/Event%20managemnt%20dashboard/event%20details.png" alt="" width="45%">
